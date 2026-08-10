@@ -96,7 +96,7 @@ generate output schemas for the Actor in this folder
 
 ### MCP server
 
-The `apify` MCP server is configured in `mcp.json` at the plugin root and the droid uses it for Route 1 tasks. It exposes:
+The `apify` MCP server is configured in `apify/mcp.json` (the plugin directory) and the droid uses it for Path 1 tasks. It exposes:
 
 - `search-actors` — search the Apify Store by keyword (no auth)
 - `fetch-actor-details` — Actor specs, input schema, pricing (no auth)
