@@ -8,7 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ### Changed
 
-- Updated Apify MCP server to include `?client=factory` for client identification.
+- Updated Apify MCP server to include `?client=factory+plugin` for client identification.
 
 ## [1.0.0] — Initial Droid release
 
